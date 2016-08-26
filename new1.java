@@ -6,7 +6,7 @@ public class new1
 		double b = 3;
 		double c = a%b;
 		
-		System.out.println("Hello, World!");
+		System.out.println("Hello, 2!");
 		System.out.println("при делении " + a + " на " + b + " остаток: " + c);
 	}
 }
